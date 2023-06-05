@@ -6,7 +6,7 @@ Add **HasUserId** trait to your models
 
 use Atin\LaravelUserbale\Traits\HasUserId;
 
-class User extends Authenticatable
+class Document extends Authenticatable
 {
     use HasUserId, …
 ```
