@@ -1,6 +1,6 @@
 <?php
 
-namespace Atin\LaravelUserableProvider;
+namespace Atin\LaravelUserable;
 
 use Illuminate\Support\ServiceProvider;
 

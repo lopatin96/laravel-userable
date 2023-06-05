@@ -1,12 +1,12 @@
 # Install
 ### Trait
-Add **HasUserable** trait to your models
+Add **HasUserId** trait to your models
 
 ```php
 
-use Atin\LaravelUserbale\Traits\HasUserbale;
+use Atin\LaravelUserbale\Traits\HasUserId;
 
 class User extends Authenticatable
 {
-    use HasUserable, …
+    use HasUserId, …
 ```
